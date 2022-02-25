@@ -1,2 +1,2 @@
 # Box_extension
-Created an extension for a new type of file, .box file.
+Program that allows you to create a new file with a new type of extension, the .box file. 
